@@ -1,0 +1,39 @@
+Book : 65
+   name : Spring in Action
+   isbn : 978-1617297571
+   number of pages : 520
+   price : 50.0 $ 
+   publication date  : Mon Nov 05 00:00:00 WEST 2018
+   Author : 55
+       name  : Craig Walls
+       about the author : Craig Walls is a principal software engineer at Pivotal, a popular author, an enthusiastic supporter of Spring Framework and voice-first applications|1|Java Development|Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+   Category : 28
+       name  : Java Development
+       description  : Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible
+
+Book : 66
+   name : Effective Java
+   isbn : 978-0134685991
+   number of pages : 416
+   price : 35.0 $ 
+   publication date  : Mon Jan 01 00:00:00 WET 2001
+   Author : 56
+       name  : Joshua Bloch
+       about the author : Joshua J. Bloch is an American software engineer and a technology author, formerly employed at Sun Microsystems and Google. He led the design and implementation of numerous Java platform features, including the Java Collections Framework .|1|Java Development|Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+   Category : 28
+       name  : Java Development
+       description  : Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible
+
+Book : 67
+   name : Java Head First
+   isbn : 978-1491910771
+   number of pages : 688
+   price : 24.0 $ 
+   publication date  : Tue Mar 15 00:00:00 WET 2005
+   Author : null
+       name  : 
+       about the author : 
+   Category : 28
+       name  : Java Development
+       description  : Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible
+

@@ -1,0 +1,13 @@
+Book : 64
+   name : Effective Java
+   isbn : 978-0134685991
+   number of pages : 416
+   price : 35.0 $ 
+   publication date  : Mon Jan 01 00:00:00 WET 2001
+   Author : 54
+       name  : Joshua Bloch
+       about the author : Joshua J. Bloch is an American software engineer and a technology author, formerly employed at Sun Microsystems and Google. He led the design and implementation of numerous Java platform features, including the Java Collections Framework .|1|Java Development|Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+   Category : 27
+       name  : Java Development
+       description  : Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible
+
